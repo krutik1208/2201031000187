@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;700;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-2">
+      <div class="wrapper-point3d-commercial-ima">
+        <img
+          class="point3d-commercial-imaging-ltd-icon"
+          alt=""
+          src="./public/point3dcommercialimagingltd5bv56sdvlmounsplash-1@2x.png"
+        />
+      </div>
+      <main class="emailor-phone-input">
+        <b class="email-or-phone">Email or Phone</b>
+        <section class="signin-label">
+          <b class="sign-in">Sign in</b>
+          <div class="no-account-prompt">
+            <input class="frame-d" type="text" />
+
+            <div class="create-account-button">
+              <b class="dont-have-an">don’t have an account ? </b>
+              <b class="create-one" id="createOneText">create one</b>
+            </div>
+          </div>
+        </section>
+        <div class="frame-f">
+          <div class="next-button-frame">
+            <img
+              class="next-button-frame-child"
+              loading="lazy"
+              alt=""
+              src="./public/rectangle-4.svg"
+            />
+
+            <b class="next" id="nextText">Next</b>
+          </div>
+        </div>
+        <section class="emailor-phone-input-child"></section>
+      </main>
+    </div>
+
+    <script>
+      var createOneText = document.getElementById("createOneText");
+      if (createOneText) {
+        createOneText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-4.html";
+        });
+      }
+      
+      var nextText = document.getElementById("nextText");
+      if (nextText) {
+        nextText.addEventListener("click", function (e) {
+          window.location.href = "./desktop-3.html";
+        });
+      }
+      </script>
+  </body>
+</html>

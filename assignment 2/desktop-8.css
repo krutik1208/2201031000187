@@ -1,0 +1,1009 @@
+.frame-b-child,
+.selected {
+  position: relative;
+  display: none;
+}
+.frame-b-child {
+  height: 119px;
+  width: 540px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-dimgray-100);
+  max-width: 100%;
+}
+.goa-hotel-room2 {
+  position: relative;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inter);
+  color: var(--color-palegoldenrod-100);
+  text-align: left;
+  white-space: nowrap;
+  z-index: 2;
+}
+.frame-b,
+.smashinglogo-variations-g3 {
+  position: absolute;
+  margin: 0 !important;
+  z-index: 1;
+}
+.frame-b {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-11xl) var(--padding-17xl) var(--padding-12xl)
+    var(--padding-43xl);
+  background-color: var(--color-dimgray-100);
+  bottom: 0;
+  left: 437px;
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-b:hover,
+.payment-and-features-frame:hover,
+.seating-area-balcony-terrace:hover,
+.star-frame-and-geyser-frame:hover {
+  background-color: var(--color-gray-300);
+}
+.smashinglogo-variations-g3 {
+  height: 121px;
+  width: 189px;
+  top: -4px;
+  left: 0;
+  object-fit: cover;
+}
+.frame-d-child {
+  height: 119px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  display: none;
+  max-width: 100%;
+}
+.seating-area-balcony-terrace-child {
+  height: 78px;
+  width: 179px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-dimgray-100);
+  display: none;
+}
+.loginsignin2 {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  color: var(--color-palegoldenrod-100);
+  text-align: left;
+  cursor: pointer;
+  z-index: 2;
+}
+.seating-area-balcony-terrace {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-5xs) var(--padding-5xl);
+  background-color: var(--color-dimgray-100);
+  border-radius: var(--br-11xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.frame-a,
+.frame-d1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-d1 {
+  margin-top: -2px;
+  flex: 1;
+  background-color: var(--color-gray-200);
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-3xl) var(--padding-21xl) var(--padding-lgi);
+  box-sizing: border-box;
+}
+.frame-a {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.reisetopia-ai6su7mu9ro-unsplas-icon2 {
+  height: 334px;
+  width: 593px;
+  position: absolute;
+  margin: 0 !important;
+  top: 124px;
+  left: -14px;
+  object-fit: cover;
+  z-index: 2;
+}
+.reisetopia-banner-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.deluxe-twin-room-child,
+.search-box {
+  height: 71px;
+  background-color: var(--color-dimgray-100);
+}
+.search-box {
+  position: absolute;
+  top: 19px;
+  left: 865px;
+  width: 269px;
+  z-index: 2;
+}
+.deluxe-twin-room-child {
+  width: 534px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  display: none;
+  max-width: 100%;
+}
+.search-icon3,
+.search4 {
+  position: relative;
+  z-index: 2;
+}
+.search-icon3 {
+  height: 35px;
+  width: 27px;
+  object-fit: cover;
+}
+.search4 {
+  width: 121px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-17xl);
+  background-color: transparent;
+  height: 44px;
+  font-weight: 700;
+  color: var(--color-palegoldenrod-200);
+  text-align: left;
+}
+.deluxe-twin-room {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-dimgray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-10xl) var(--padding-mid);
+  box-sizing: border-box;
+  gap: 0 19px;
+  min-width: 148px;
+  max-width: 100%;
+  z-index: 1;
+}
+.geyser-hot-springs-child {
+  height: 71px;
+  width: 224px;
+  position: relative;
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  background-color: var(--color-dimgray-100);
+  display: none;
+}
+.room2-guest2 {
+  position: relative;
+  z-index: 2;
+}
+.geyser-hot-springs {
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  background-color: var(--color-dimgray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-xs) var(--padding-mid)
+    var(--padding-3xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+.currency-display {
+  align-self: stretch;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 2;
+  margin-left: -2px;
+}
+.free-wi-fi,
+.line-separator {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.free-wi-fi {
+  height: 73px;
+  padding: 0 var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.line-separator {
+  width: 856px;
+  gap: 0 98px;
+  max-width: 100%;
+}
+.fri1-mar-sat32 {
+  position: absolute;
+  margin: 0 !important;
+  right: 216px;
+  bottom: 17px;
+  display: inline-block;
+  z-index: 3;
+}
+.header-frame-item {
+  align-self: stretch;
+  width: 224px;
+  position: relative;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: var(--color-dimgray-100);
+  display: none;
+}
+.seating-area-frame {
+  align-self: stretch;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.search5 {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  color: var(--color-palegoldenrod-100);
+  text-align: left;
+  z-index: 2;
+}
+.search-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.header-frame1,
+.room-guest {
+  display: flex;
+  flex-direction: row;
+}
+.header-frame1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 var(--padding-37xl) 0 var(--padding-8xl);
+  background-color: var(--color-dimgray-100);
+  height: 71px;
+  width: 224px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  gap: 0 46px;
+  z-index: 1;
+}
+.room-guest {
+  position: absolute;
+  top: 16px;
+  left: 9px;
+  width: 1349px;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.room-type-frame-child {
+  width: 729px;
+  height: 407px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-dimgray-100);
+  display: none;
+  max-width: 100%;
+}
+.deluxe-twin-room1,
+.for-2-adults {
+  margin: 0;
+}
+.room-with-breakfast {
+  margin-bottom: 0;
+}
+.non-refundable {
+  margin-bottom: 0;
+  white-space: pre-wrap;
+}
+.room-with-breakfast-non-refund {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.blank-line1 {
+  margin: 0;
+}
+.deluxe-twin-room-container {
+  width: 391px;
+  height: 160px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.logo-rectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: calc(100% - 24px);
+}
+.star-frame {
+  height: 210.5px;
+  width: 1px;
+  position: relative;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.housekeeping-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 23px;
+  max-width: 100%;
+}
+.balconyterrace,
+.seating-area {
+  position: relative;
+  z-index: 2;
+}
+.seating-area-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 21px 0;
+}
+.housekeeping1 {
+  margin: 0;
+}
+.housekeeping {
+  margin-bottom: -20px;
+  height: 78px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.air-conditioner-frame {
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.luggage-assistance {
+  position: relative;
+  z-index: 3;
+}
+.category-frame,
+.free-amenities-frame,
+.room-type-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.free-amenities-frame,
+.room-type-frame {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 38px;
+}
+.room-type-frame {
+  position: absolute;
+  top: 0;
+  left: 671px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-dimgray-100);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-12xs) var(--padding-48xl) 75px var(--padding-30xl);
+  box-sizing: border-box;
+  gap: 22px 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.background-rectangle {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 579px;
+  height: 334px;
+  z-index: 1;
+}
+.plot-no-251b1,
+.super-oliput-collection1 {
+  margin: 0;
+}
+.super-oliput-collection-container1 {
+  position: absolute;
+  top: 384px;
+  left: 38px;
+  display: inline-block;
+  color: var(--color-black);
+  width: 534px;
+  z-index: 1;
+}
+.room-collection-text-child {
+  align-self: stretch;
+  height: 301px;
+  position: relative;
+  background-color: var(--color-dimgray-100);
+  display: none;
+}
+.star-icon {
+  width: 35px;
+  height: 29px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.rooms-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.selected-catagory {
+  position: relative;
+  z-index: 3;
+}
+.deluxe-room-frame,
+.star-frame1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.deluxe-room-frame {
+  padding: 0 var(--padding-mini);
+}
+.free-wifi2 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.category-frame1 {
+  align-self: stretch;
+  height: 41px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px 0;
+}
+.luxurious-room1 {
+  margin: 0;
+}
+.luxurious-room,
+.room-size {
+  position: relative;
+  display: inline-block;
+}
+.luxurious-room {
+  height: 78px;
+  z-index: 5;
+}
+.room-size {
+  font-size: var(--font-size-xl);
+  z-index: 6;
+  margin-top: -39px;
+}
+.luxurious-room-label,
+.payment-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.luxurious-room-label {
+  align-self: stretch;
+  flex-direction: column;
+}
+.payment-frame {
+  height: 78px;
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.star-frame-and-geyser-frame-child {
+  height: 44px;
+  width: 119px;
+  position: relative;
+  background-color: var(--color-dimgray-100);
+  display: none;
+}
+.rectangle-and-geyser {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  color: var(--color-palegoldenrod-100);
+  text-align: left;
+  z-index: 4;
+}
+.geysers-and-hot-springs-label {
+  height: 33px;
+  width: 35px;
+  position: relative;
+  z-index: 4;
+}
+.star-frame-and-geyser-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs) var(--padding-20xl) 0 var(--padding-5xs);
+  background-color: var(--color-dimgray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 12px;
+  z-index: 3;
+}
+.star-frame-and-geyser-frame-item {
+  height: 44px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-dimgray-100);
+  z-index: 3;
+}
+.free-wifi3 {
+  flex: 1;
+  position: relative;
+  z-index: 4;
+}
+.wi-fi-icon2 {
+  height: 27px;
+  width: 43px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -3px;
+  left: -35px;
+  object-fit: cover;
+  z-index: 5;
+}
+.free-wifi-parent,
+.star-frame-and-geyser-frame1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.free-wifi-parent {
+  height: 24px;
+  width: 101px;
+  align-items: flex-start;
+  position: relative;
+  margin-left: -88px;
+}
+.star-frame-and-geyser-frame1 {
+  width: 131px;
+  align-items: center;
+}
+.star-frame-and-geyser-frame-inner {
+  height: 44px;
+  width: 118px;
+  position: relative;
+  background-color: var(--color-dimgray-100);
+  display: none;
+  z-index: 0;
+}
+.geyser2 {
+  position: relative;
+  z-index: 4;
+}
+.hot-springs-icon2 {
+  height: 32px;
+  width: 48px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 16px);
+  left: -3px;
+  object-fit: cover;
+  z-index: 5;
+}
+.payment-and-features-frame-child,
+.star-frame-and-geyser-frame2 {
+  height: 44px;
+  position: relative;
+  background-color: var(--color-dimgray-100);
+}
+.star-frame-and-geyser-frame2 {
+  width: 131px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-5xs) var(--padding-9xs) 0 var(--padding-4xs);
+  box-sizing: border-box;
+  z-index: 3;
+}
+.payment-and-features-frame-child {
+  width: 118px;
+  display: none;
+}
+.air-conditioner-icon2 {
+  height: 32px;
+  width: 58px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.ac2 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-palegoldenrod-100);
+  text-align: left;
+  z-index: 4;
+}
+.payment-and-features-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-xl) var(--padding-12xs)
+    var(--padding-8xs);
+  background-color: var(--color-dimgray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 5px;
+  z-index: 3;
+}
+.free-wifi-and-hot-springs-fram {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  margin-top: -8px;
+  font-size: var(--font-size-xl);
+}
+.usd-symbol-frame {
+  flex: 1;
+  flex-direction: column;
+}
+.a-c-frame1,
+.search-bar,
+.usd-symbol-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.a-c-frame1 {
+  width: 768px;
+  flex-direction: row;
+  padding: 0 var(--padding-24xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-13xl);
+}
+.search-bar {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 19px 0;
+}
+.more-amenities-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  z-index: 3;
+}
+.us-dollar-circled3 {
+  height: 46px;
+  width: 74px;
+  position: relative;
+  object-fit: cover;
+  z-index: 4;
+}
+.b1 {
+  height: 47px;
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+  margin-left: -3px;
+}
+.currency-symbol {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child6 {
+  height: 46px;
+  width: 137px;
+  position: relative;
+  background-color: var(--color-darkslategray);
+  display: none;
+}
+.pay {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  color: var(--color-palegoldenrod-100);
+  text-align: left;
+  cursor: pointer;
+  z-index: 4;
+}
+.rectangle-parent5 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xs) var(--padding-26xl) var(--padding-7xs)
+    var(--padding-18xl);
+  background-color: var(--color-darkslategray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 3;
+}
+.rectangle-parent5:hover {
+  background-color: #6e7563;
+}
+.currency-symbol-parent,
+.more-amenities {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.currency-symbol-parent {
+  width: 789px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-xl);
+}
+.more-amenities {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+  gap: 7px 0;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+}
+.more-amenities-title,
+.room-collection-text {
+  position: absolute;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.room-collection-text {
+  top: 454px;
+  left: 572px;
+  background-color: var(--color-dimgray-100);
+  width: 811px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 var(--padding-6xs);
+  gap: 59px 0;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.more-amenities-title {
+  top: 212px;
+  left: 669px;
+  border-top: 1px solid var(--color-white);
+  width: 731px;
+  height: 1px;
+}
+.three-days-frame {
+  position: absolute;
+  top: 105px;
+  left: 0;
+  width: 1400px;
+  height: 755px;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+}
+.b2,
+.reisetopia-banner {
+  font-family: var(--font-inter);
+}
+.reisetopia-banner {
+  height: 904px;
+  flex: 1;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-palegoldenrod-100);
+}
+.b2 {
+  font-size: var(--font-size-13xl);
+  white-space: pre-wrap;
+}
+.span {
+  font-weight: 800;
+}
+.p1 {
+  margin: 0;
+}
+.more2 {
+  white-space: pre-wrap;
+}
+.more1 {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.amenities,
+.amenities1 {
+  white-space: pre-wrap;
+}
+.amenities {
+  margin: 0;
+}
+.more-amenities1 {
+  height: 121px;
+  width: 321px;
+  position: absolute;
+  margin: 0 !important;
+  top: 151px;
+  right: -73px;
+  display: inline-block;
+  z-index: 2;
+}
+.reservation-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: rgba(230, 225, 156, 0.9);
+  font-family: var(--font-inter);
+}
+.ama-stays {
+  width: 703px;
+  position: relative;
+  display: none;
+  height: 111px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+  box-sizing: border-box;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1100px) {
+  .room-guest {
+    flex-wrap: wrap;
+  }
+  .reisetopia-banner {
+    height: auto;
+    min-height: 904;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .selected {
+    font-size: var(--font-size-7xl);
+  }
+  .search4 {
+    font-size: var(--font-size-10xl);
+  }
+  .balconyterrace,
+  .deluxe-twin-room-container,
+  .housekeeping,
+  .luggage-assistance,
+  .luxurious-room,
+  .rectangle-and-geyser,
+  .seating-area,
+  .super-oliput-collection-container1 {
+    font-size: var(--font-size-7xl);
+  }
+  .b1 {
+    font-size: var(--font-size-10xl);
+  }
+  .ama-stays,
+  .more-amenities1 {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .free-amenities-frame,
+  .free-wifi-and-hot-springs-fram,
+  .line-separator {
+    flex-wrap: wrap;
+  }
+  .three-days-frame {
+    height: auto;
+    min-height: 755;
+  }
+}
+@media screen and (max-width: 450px) {
+  .selected {
+    font-size: var(--font-size-lgi);
+  }
+  .fri1-mar-sat32,
+  .search4,
+  .search5 {
+    font-size: var(--font-size-3xl);
+  }
+  .balconyterrace,
+  .deluxe-twin-room-container,
+  .housekeeping,
+  .luggage-assistance,
+  .luxurious-room,
+  .seating-area,
+  .selected-catagory,
+  .super-oliput-collection-container1 {
+    font-size: var(--font-size-lgi);
+  }
+  .room-size {
+    font-size: var(--font-size-base);
+  }
+  .rectangle-and-geyser {
+    font-size: var(--font-size-lgi);
+  }
+  .ac2,
+  .free-wifi3,
+  .geyser2 {
+    font-size: var(--font-size-base);
+  }
+  .b1,
+  .pay {
+    font-size: var(--font-size-3xl);
+  }
+  .currency-symbol-parent {
+    flex-wrap: wrap;
+  }
+  .ama-stays,
+  .more-amenities1 {
+    font-size: var(--font-size-lgi);
+  }
+}

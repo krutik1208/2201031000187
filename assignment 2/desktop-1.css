@@ -1,0 +1,774 @@
+.smashinglogo-variations-g {
+  align-self: stretch;
+  width: 180px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 79px;
+  z-index: 2;
+}
+.best-selling-destinations-fram-child {
+  height: 79px;
+  width: 501px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(90deg, #484e3c, #5a6050);
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.search-icon {
+  height: 40px;
+  width: 75px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.search {
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 3;
+  margin: 0 0 0-6px;
+}
+.best-selling-destinations-fram,
+.login-label {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.best-selling-destinations-fram {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(90deg, #484e3c, #5a6050);
+  align-items: flex-end;
+  padding: var(--padding-lg) var(--padding-8xs) var(--padding-mid);
+  z-index: 1;
+}
+.login-label {
+  width: 744px;
+  align-items: flex-start;
+  padding: 0 var(--padding-19xl) 0 0;
+  gap: 0 25px;
+}
+.frame-set-child {
+  height: 79px;
+  width: 174px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+  display: none;
+}
+.delhi {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.frame-set,
+.frame-set-item {
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+}
+.frame-set {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-2xl) 44px var(--padding-sm) var(--padding-24xl);
+  z-index: 1;
+}
+.frame-set-item {
+  height: 79px;
+  width: 173px;
+  position: relative;
+  display: none;
+}
+.goa {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  z-index: 2;
+}
+.delhi-goa-frame,
+.frame-set1 {
+  display: flex;
+  flex-direction: row;
+}
+.frame-set1 {
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-2xl) 53px var(--padding-sm) 54px;
+  z-index: 1;
+}
+.delhi-goa-frame {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 33px;
+  max-width: 100%;
+  color: var(--color-palegoldenrod-100);
+}
+.login-sign-child {
+  height: 79px;
+  width: 173px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+  display: none;
+}
+.loginsign-in {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-palegoldenrod-100);
+  text-align: left;
+  cursor: pointer;
+  z-index: 2;
+}
+.frame-delhi-goa,
+.login-sign {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.login-sign {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xl) 0 var(--padding-7xl) var(--padding-4xs);
+  background-color: transparent;
+  width: 173px;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+  align-items: center;
+  justify-content: flex-end;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-delhi-goa {
+  margin-top: -1px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+  gap: 0 68px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-palegoldenrod-200);
+  font-family: var(--font-inter);
+}
+.point3d-commercial-imaging-ltd-icon1 {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.042);
+}
+.wrapper-point3d-commercial-ima1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pointd-b-v-s-lmounsplas-sahilv,
+.sahil-v1-e-1gki4w-unsplash-1,
+.wrapper-point3d-commercial-ima1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.sahil-v1-e-1gki4w-unsplash-1 {
+  filter: blur(20px);
+  z-index: 1;
+}
+.pointd-b-v-s-lmounsplas-sahilv {
+  margin: 0 !important;
+}
+.rectangle-placeholder {
+  align-self: stretch;
+  height: 0;
+  position: relative;
+  background-color: var(--color-gray-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.jackpot-deals-child {
+  width: 1290px;
+  height: 396px;
+  position: relative;
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+  display: none;
+  max-width: 100%;
+}
+.best-selling-destinations {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 3;
+}
+.jackpot-deals1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm);
+}
+.bhavesh-sawant-0qwks3fieqc-uns-icon {
+  width: 100%;
+  height: 244px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 3;
+}
+.kashmir1 {
+  margin: 0;
+}
+.kashmir {
+  height: 58px;
+  position: relative;
+  display: inline-block;
+  z-index: 4;
+}
+.bhavesh-sawant-frame {
+  width: 201px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 208px var(--padding-28xl) 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.sarang-pande-iijeyjbmrec-unspl-icon {
+  height: 244px;
+  width: 197px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.bali {
+  position: relative;
+  z-index: 4;
+}
+.goa-frame {
+  height: 244px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-6xs) 69px var(--padding-6xs) 85px;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.road-trip-with-raj-selchr-bgvs-icon {
+  height: 244px;
+  width: 206px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.lakshadweep {
+  position: relative;
+  z-index: 4;
+}
+.lakshadweep-frame {
+  height: 244px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-7xl) var(--padding-6xs)
+    var(--padding-4xl);
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.mathew-schwartz-gsllxmvo4hq-un-icon {
+  height: 244px;
+  width: 176px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.thailand {
+  position: relative;
+  z-index: 4;
+}
+.balisearchbox {
+  height: 244px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-6xs) var(--padding-14xl) var(--padding-6xs)
+    var(--padding-28xl);
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.sahil-v1-e-1gki4w-unsplash-2-icon {
+  align-self: stretch;
+  height: 244px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 3;
+}
+.goa1 {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 4;
+  margin-top: -36px;
+}
+.sahilvegkiwunsplashgoa {
+  height: 244px;
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.goa-delhi-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 49px;
+  font-size: var(--font-size-5xl);
+}
+.best-selling-destinations-child,
+.jackpot-deals {
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+  max-width: 100%;
+}
+.jackpot-deals {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-30xl) var(--padding-26xl) var(--padding-lg)
+    var(--padding-28xl);
+  box-sizing: border-box;
+  gap: 15px 0;
+  z-index: 2;
+}
+.best-selling-destinations-child {
+  height: 396px;
+  width: 1290px;
+  position: relative;
+  display: none;
+}
+.jackpot-deals-on {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 3;
+}
+.frame-thailand {
+  height: 4px;
+  width: 10px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  z-index: 4;
+  margin-left: -517px;
+}
+.jackpot-deals-on-top-selling-p-parent {
+  width: 760px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.patrick-robert-doyle-ah8zkxqfi-icon1 {
+  height: 216px;
+  width: 205px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.kashmir2 {
+  position: relative;
+  z-index: 4;
+}
+.bali-region,
+.destination-frame {
+  display: flex;
+  box-sizing: border-box;
+}
+.bali-region {
+  align-self: stretch;
+  height: 216px;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-7xs);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.destination-frame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  min-width: 135px;
+}
+.point3d-commercial-imaging-ltd-icon2 {
+  height: 222px;
+  width: 192px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.bali1 {
+  position: relative;
+  z-index: 4;
+}
+.point3d-commercial-imaging-ltd-parent {
+  height: 222px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-7xs) 76px var(--padding-7xs) var(--padding-54xl);
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.bali-frame {
+  flex: 0.9275;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  min-width: 135px;
+}
+.albert-vincent-wu-akqnzzr1ol4-icon1 {
+  height: 216px;
+  width: 179px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.lakshadweep1 {
+  position: relative;
+  z-index: 4;
+}
+.kashmir-frame,
+.kashmir-frame1 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.kashmir-frame1 {
+  align-self: stretch;
+  height: 216px;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0 var(--padding-sm) 0 var(--padding-5xs);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.kashmir-frame {
+  flex: 0.9086;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-lg) 0 0;
+  min-width: 128px;
+}
+.adam-winger-vgs8z60yt2c-unspla-icon {
+  height: 216px;
+  width: 176px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.thailand1 {
+  position: relative;
+  z-index: 4;
+}
+.lakshadweep-frame1 {
+  height: 216px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 0 34px 0 var(--padding-27xl);
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.frame-kashmir-goa,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-kashmir-goa {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 0 43px;
+  font-size: var(--font-size-5xl);
+}
+.frame-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 36px 0;
+  max-width: 100%;
+}
+.reisetopia-ai6su7mu9ro-unsplas-icon {
+  height: 216px;
+  width: 222px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.goa2 {
+  position: relative;
+  z-index: 4;
+}
+.reisetopia-ai6su7mu9ro-unsplas-parent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-7xs);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 3;
+}
+.best-selling-destinations-inner {
+  height: 222px;
+  width: 222px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+}
+.best-selling-destinations1 {
+  align-self: stretch;
+  background: linear-gradient(180deg, #484e3c, #5a6050);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-30xl) var(--padding-26xl) var(--padding-22xl) 61px;
+  box-sizing: border-box;
+  gap: 0 48px;
+  max-width: 100%;
+  z-index: 2;
+}
+.frame-destinations,
+.frame-goa-kashmir {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-goa-kashmir {
+  flex: 1;
+  flex-direction: column;
+  gap: 40px 0;
+}
+.frame-destinations {
+  width: 1292px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-palegoldenrod-100);
+  font-family: var(--font-inter);
+}
+.desktop-1,
+.frame-branding {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-branding {
+  align-self: stretch;
+  align-items: center;
+  padding: 0 0 var(--padding-17xl);
+  box-sizing: border-box;
+  gap: 77px 0;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.desktop-1 {
+  width: 100%;
+  background-color: var(--color-white);
+  overflow: hidden;
+  align-items: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1250px) {
+  .delhi-goa-frame {
+    display: none;
+  }
+  .goa-delhi-frame {
+    flex-wrap: wrap;
+  }
+  .best-selling-destinations1,
+  .jackpot-deals {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+  .best-selling-destinations1 {
+    padding-left: var(--padding-11xl);
+  }
+}
+@media screen and (max-width: 1100px) {
+  .frame-kashmir-goa {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-delhi-goa {
+    gap: 0 68px;
+  }
+  .best-selling-destinations {
+    font-size: var(--font-size-13xl);
+  }
+  .goa-delhi-frame {
+    gap: 0 49px;
+  }
+  .jackpot-deals-on {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-parent {
+    min-width: 100%;
+  }
+  .best-selling-destinations1 {
+    gap: 0 48px;
+  }
+  .frame-goa-kashmir {
+    gap: 40px 0;
+  }
+  .frame-branding {
+    gap: 77px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .delhi-goa-frame {
+    gap: 0 33px;
+  }
+  .frame-delhi-goa {
+    gap: 0 68px;
+  }
+  .best-selling-destinations {
+    font-size: var(--font-size-5xl);
+  }
+  .bali,
+  .goa1,
+  .kashmir,
+  .lakshadweep,
+  .thailand {
+    font-size: var(--font-size-lgi);
+  }
+  .jackpot-deals {
+    padding-top: var(--padding-13xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .jackpot-deals-on {
+    font-size: var(--font-size-5xl);
+  }
+  .bali1,
+  .kashmir2 {
+    font-size: var(--font-size-lgi);
+  }
+  .bali-frame {
+    flex: 1;
+  }
+  .lakshadweep1 {
+    font-size: var(--font-size-lgi);
+  }
+  .kashmir-frame {
+    flex: 1;
+  }
+  .thailand1 {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-kashmir-goa {
+    gap: 0 43px;
+  }
+  .frame-parent {
+    gap: 36px 0;
+  }
+  .goa2 {
+    font-size: var(--font-size-lgi);
+  }
+  .best-selling-destinations1 {
+    padding-top: var(--padding-13xl);
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .frame-branding {
+    gap: 77px 0;
+  }
+}
